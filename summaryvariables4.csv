@@ -1,0 +1,154 @@
+StateAbbr,State,TOPIC,ValueOrig1,Value1,AvgOW,LAT,LON,Questio
+GA,Georgia,LivingHalfMilePark,15.1,15.1,30.5,32.83968109,-83.62758035,PercentPopLivingHalfMilePark
+MO,Missouri,LivingHalfMilePark,32.8,32.8,31.5,38.63579078,-92.56630005,PercentPopLivingHalfMilePark
+HI,Hawaii,LivingHalfMilePark,67.2,67.2,25.5,21.30485044,-157.8577494,PercentPopLivingHalfMilePark
+ID,Idaho,LivingHalfMilePark,36.2,36.2,28.8,43.68263001,-114.36373,PercentPopLivingHalfMilePark
+MT,Montana,LivingHalfMilePark,36.3,36.3,26.3,47.06652897,-109.4244206,PercentPopLivingHalfMilePark
+NE,Nebraska,LivingHalfMilePark,50.1,50.1,32,41.64104099,-99.36572062,PercentPopLivingHalfMilePark
+IL,Illinois,LivingHalfMilePark,58.7,58.7,31,40.48501028,-88.99771018,PercentPopLivingHalfMilePark
+MN,Minnesota,LivingHalfMilePark,60.3,60.3,28.8,46.35564874,-94.7942005,PercentPopLivingHalfMilePark
+IN,Indiana,LivingHalfMilePark,27.1,27.1,32.2,39.76691045,-86.14996019,PercentPopLivingHalfMilePark
+MS,Mississippi,LivingHalfMilePark,10.9,10.9,36.7,32.7455101,-89.53803082,PercentPopLivingHalfMilePark
+IA,Iowa,LivingHalfMilePark,44.5,44.5,31.5,42.46940091,-93.81649056,PercentPopLivingHalfMilePark
+KS,Kansas,LivingHalfMilePark,43,43,31.2,38.3477403,98.20078123,PercentPopLivingHalfMilePark
+DE,Delaware,LivingHalfMilePark,46.3,46.3,30.3,39.00883067,-75.57774117,PercentPopLivingHalfMilePark
+MA,Massachusetts,LivingHalfMilePark,49.3,49.3,24.6,42.27687047,-72.08269067,PercentPopLivingHalfMilePark
+AL,Alabama,LivingHalfMilePark,14.7,14.7,35.4,32.84057112,-86.63186076,PercentPopLivingHalfMilePark
+AZ,Arizona,LivingHalfMilePark,38,38,29.6,34.86597028,-111.7638113,PercentPopLivingHalfMilePark
+RI,Rhode Island,LivingHalfMilePark,41,41,26.9,41.70828019,-71.52247031,PercentPopLivingHalfMilePark
+AK,Alaska,LivingHalfMilePark,41.7,41.7,31.6,64.84507996,-147.722059,PercentPopLivingHalfMilePark
+AR,Arkansas,LivingHalfMilePark,15.3,15.3,35.5,34.74865012,-92.27449074,PercentPopLivingHalfMilePark
+CA,California,LivingHalfMilePark,58.3,58.3,26.1,37.63864012,-120.9999995,PercentPopLivingHalfMilePark
+CO,Colorado,LivingHalfMilePark,59.5,59.5,23.3,38.84384076,-106.1336109,PercentPopLivingHalfMilePark
+CT,Connecticut,LivingHalfMilePark,34.6,34.6,27.1,41.56266102,-72.64984095,PercentPopLivingHalfMilePark
+DC,District of Columbia,LivingHalfMilePark,88.1,88.1,24.6,38.89037139,-77.03196113,PercentPopLivingHalfMilePark
+MD,Maryland,LivingHalfMilePark,50.8,50.8,30.1,39.29058096,-76.60926011,PercentPopLivingHalfMilePark
+MI,Michigan,LivingHalfMilePark,36.9,36.9,32.5,44.66131954,-84.71439027,PercentPopLivingHalfMilePark
+OH,Ohio,LivingHalfMilePark,40.4,40.4,32.8,40.06021014,-82.40426006,PercentPopLivingHalfMilePark
+WA,Washington,LivingHalfMilePark,49.3,49.3,29.4,47.52227863,-120.4700108,PercentPopLivingHalfMilePark
+WV,West Virginia,LivingHalfMilePark,9,9,38.1,38.6655102,-80.71264013,PercentPopLivingHalfMilePark
+FL,Florida,LivingHalfMilePark,30.7,30.7,27.5,28.93204038,-81.92896054,PercentPopLivingHalfMilePark
+KY,Kentucky,LivingHalfMilePark,19.8,19.8,34,37.64597027,-84.77497105,PercentPopLivingHalfMilePark
+LA,Louisiana,LivingHalfMilePark,22.3,22.3,35.7,31.31266064,-92.44568007,PercentPopLivingHalfMilePark
+ME,Maine,LivingHalfMilePark,11.2,11.2,30.9,45.25422889,-68.98503134,PercentPopLivingHalfMilePark
+NV,Nevada,LivingHalfMilePark,38.6,38.6,25.8,39.49324039,-117.0718406,PercentPopLivingHalfMilePark
+NH,New Hampshire,LivingHalfMilePark,17.1,17.1,26.4,43.65595011,-71.50036092,PercentPopLivingHalfMilePark
+NJ,New Jersey,LivingHalfMilePark,45.1,45.1,28.1,40.13057005,-74.27369129,PercentPopLivingHalfMilePark
+NM,New Mexico,LivingHalfMilePark,37.3,37.3,29,34.52088095,-106.240581,PercentPopLivingHalfMilePark
+NY,New York,LivingHalfMilePark,51.6,51.6,25.9,42.82700103,-75.54397043,PercentPopLivingHalfMilePark
+NC,North Carolina,LivingHalfMilePark,13.5,13.5,31.8,35.46622098,-79.15925046,PercentPopLivingHalfMilePark
+ND,North Dakota,LivingHalfMilePark,42.1,42.1,32.9,47.47531978,-100.118421,PercentPopLivingHalfMilePark
+OK,Oklahoma,LivingHalfMilePark,33.4,33.4,32.8,35.47203136,-97.52107021,PercentPopLivingHalfMilePark
+OR,Oregon,LivingHalfMilePark,54.1,54.1,28.7,44.56744942,-120.1550313,PercentPopLivingHalfMilePark
+PA,Pennsylvania,LivingHalfMilePark,35,35,30.3,40.79373015,-77.86070029,PercentPopLivingHalfMilePark
+SC,South Carolina,LivingHalfMilePark,12.9,12.9,32.4,33.9988213,-81.04537121,PercentPopLivingHalfMilePark
+SD,South Dakota,LivingHalfMilePark,39.3,39.3,29.8,44.35313005,-100.3735306,PercentPopLivingHalfMilePark
+TN,Tennessee,LivingHalfMilePark,17.5,17.5,35.7,35.68094058,-85.77449091,PercentPopLivingHalfMilePark
+TX,Texas,LivingHalfMilePark,32.5,32.5,32.7,31.82724041,-99.42677021,PercentPopLivingHalfMilePark
+UT,Utah,LivingHalfMilePark,52.5,52.5,25.5,39.36070017,-111.5871306,PercentPopLivingHalfMilePark
+VT,Vermont,LivingHalfMilePark,13.9,13.9,28,43.62538124,-72.51764079,PercentPopLivingHalfMilePark
+VA,Virginia,LivingHalfMilePark,31,31,30.2,37.54268067,-78.45789046,PercentPopLivingHalfMilePark
+WI,Wisconsin,LivingHalfMilePark,49.4,49.4,31.2,44.39319117,-89.81637074,PercentPopLivingHalfMilePark
+WY,Wyoming,LivingHalfMilePark,27.4,27.4,27.7,43.23554134,-108.1098304,PercentPopLivingHalfMilePark
+GA,Georgia,YouthAccessPlayWalkAreas,41.1,41.1,30.5,32.83968109,-83.62758035,PercentYouthParksCommSidewalk
+MO,Missouri,YouthAccessPlayWalkAreas,50,50,31.5,38.63579078,-92.56630005,PercentYouthParksCommSidewalk
+HI,Hawaii,YouthAccessPlayWalkAreas,68,68,25.5,21.30485044,-157.8577494,PercentYouthParksCommSidewalk
+ID,Idaho,YouthAccessPlayWalkAreas,55.5,55.5,28.8,43.68263001,-114.36373,PercentYouthParksCommSidewalk
+MT,Montana,YouthAccessPlayWalkAreas,53.7,53.7,26.3,47.06652897,-109.4244206,PercentYouthParksCommSidewalk
+NE,Nebraska,YouthAccessPlayWalkAreas,56.8,56.8,32,41.64104099,-99.36572062,PercentYouthParksCommSidewalk
+IL,Illinois,YouthAccessPlayWalkAreas,65.6,65.6,31,40.48501028,-88.99771018,PercentYouthParksCommSidewalk
+MN,Minnesota,YouthAccessPlayWalkAreas,60.7,60.7,28.8,46.35564874,-94.7942005,PercentYouthParksCommSidewalk
+IN,Indiana,YouthAccessPlayWalkAreas,47.9,47.9,32.2,39.76691045,-86.14996019,PercentYouthParksCommSidewalk
+MS,Mississippi,YouthAccessPlayWalkAreas,30,30,36.7,32.7455101,-89.53803082,PercentYouthParksCommSidewalk
+IA,Iowa,YouthAccessPlayWalkAreas,58.2,58.2,31.5,42.46940091,-93.81649056,PercentYouthParksCommSidewalk
+KS,Kansas,YouthAccessPlayWalkAreas,59.1,59.1,31.2,38.3477403,98.20078123,PercentYouthParksCommSidewalk
+DE,Delaware,YouthAccessPlayWalkAreas,51.8,51.8,30.3,39.00883067,-75.57774117,PercentYouthParksCommSidewalk
+MA,Massachusetts,YouthAccessPlayWalkAreas,63.2,63.2,24.6,42.27687047,-72.08269067,PercentYouthParksCommSidewalk
+AL,Alabama,YouthAccessPlayWalkAreas,37,37,35.4,32.84057112,-86.63186076,PercentYouthParksCommSidewalk
+AZ,Arizona,YouthAccessPlayWalkAreas,57.3,57.3,29.6,34.86597028,-111.7638113,PercentYouthParksCommSidewalk
+RI,Rhode Island,YouthAccessPlayWalkAreas,64.6,64.6,26.9,41.70828019,-71.52247031,PercentYouthParksCommSidewalk
+AK,Alaska,YouthAccessPlayWalkAreas,57.1,57.1,31.6,64.84507996,-147.722059,PercentYouthParksCommSidewalk
+AR,Arkansas,YouthAccessPlayWalkAreas,43,43,35.5,34.74865012,-92.27449074,PercentYouthParksCommSidewalk
+CA,California,YouthAccessPlayWalkAreas,66.7,66.7,26.1,37.63864012,-120.9999995,PercentYouthParksCommSidewalk
+CO,Colorado,YouthAccessPlayWalkAreas,69.9,69.9,23.3,38.84384076,-106.1336109,PercentYouthParksCommSidewalk
+CT,Connecticut,YouthAccessPlayWalkAreas,54.7,54.7,27.1,41.56266102,-72.64984095,PercentYouthParksCommSidewalk
+DC,District of Columbia,YouthAccessPlayWalkAreas,76.3,76.3,24.6,38.89037139,-77.03196113,PercentYouthParksCommSidewalk
+MD,Maryland,YouthAccessPlayWalkAreas,56.9,56.9,30.1,39.29058096,-76.60926011,PercentYouthParksCommSidewalk
+MI,Michigan,YouthAccessPlayWalkAreas,52.5,52.5,32.5,44.66131954,-84.71439027,PercentYouthParksCommSidewalk
+OH,Ohio,YouthAccessPlayWalkAreas,52.2,52.2,32.8,40.06021014,-82.40426006,PercentYouthParksCommSidewalk
+WA,Washington,YouthAccessPlayWalkAreas,61.1,61.1,29.4,47.52227863,-120.4700108,PercentYouthParksCommSidewalk
+WV,West Virginia,YouthAccessPlayWalkAreas,57.2,57.2,38.1,38.6655102,-80.71264013,PercentYouthParksCommSidewalk
+FL,Florida,YouthAccessPlayWalkAreas,51.4,51.4,27.5,28.93204038,-81.92896054,PercentYouthParksCommSidewalk
+KY,Kentucky,YouthAccessPlayWalkAreas,40.6,40.6,34,37.64597027,-84.77497105,PercentYouthParksCommSidewalk
+LA,Louisiana,YouthAccessPlayWalkAreas,35.4,35.4,35.7,31.31266064,-92.44568007,PercentYouthParksCommSidewalk
+ME,Maine,YouthAccessPlayWalkAreas,48.7,48.7,30.9,45.25422889,-68.98503134,PercentYouthParksCommSidewalk
+NV,Nevada,YouthAccessPlayWalkAreas,64.6,64.6,25.8,39.49324039,-117.0718406,PercentYouthParksCommSidewalk
+NH,New Hampshire,YouthAccessPlayWalkAreas,51.2,51.2,26.4,43.65595011,-71.50036092,PercentYouthParksCommSidewalk
+NJ,New Jersey,YouthAccessPlayWalkAreas,59.6,59.6,28.1,40.13057005,-74.27369129,PercentYouthParksCommSidewalk
+NM,New Mexico,YouthAccessPlayWalkAreas,52.8,52.8,29,34.52088095,-106.240581,PercentYouthParksCommSidewalk
+NY,New York,YouthAccessPlayWalkAreas,57.4,57.4,25.9,42.82700103,-75.54397043,PercentYouthParksCommSidewalk
+NC,North Carolina,YouthAccessPlayWalkAreas,41.4,41.4,31.8,35.46622098,-79.15925046,PercentYouthParksCommSidewalk
+ND,North Dakota,YouthAccessPlayWalkAreas,59.8,59.8,32.9,47.47531978,-100.118421,PercentYouthParksCommSidewalk
+OK,Oklahoma,YouthAccessPlayWalkAreas,40.6,40.6,32.8,35.47203136,-97.52107021,PercentYouthParksCommSidewalk
+OR,Oregon,YouthAccessPlayWalkAreas,62.4,62.4,28.7,44.56744942,-120.1550313,PercentYouthParksCommSidewalk
+PA,Pennsylvania,YouthAccessPlayWalkAreas,53.3,53.3,30.3,40.79373015,-77.86070029,PercentYouthParksCommSidewalk
+SC,South Carolina,YouthAccessPlayWalkAreas,36.1,36.1,32.4,33.9988213,-81.04537121,PercentYouthParksCommSidewalk
+SD,South Dakota,YouthAccessPlayWalkAreas,58.3,58.3,29.8,44.35313005,-100.3735306,PercentYouthParksCommSidewalk
+TN,Tennessee,YouthAccessPlayWalkAreas,37,37,35.7,35.68094058,-85.77449091,PercentYouthParksCommSidewalk
+TX,Texas,YouthAccessPlayWalkAreas,53.1,53.1,32.7,31.82724041,-99.42677021,PercentYouthParksCommSidewalk
+UT,Utah,YouthAccessPlayWalkAreas,69.1,69.1,25.5,39.36070017,-111.5871306,PercentYouthParksCommSidewalk
+VT,Vermont,YouthAccessPlayWalkAreas,46.2,46.2,28,43.62538124,-72.51764079,PercentYouthParksCommSidewalk
+VA,Virginia,YouthAccessPlayWalkAreas,53.1,53.1,30.2,37.54268067,-78.45789046,PercentYouthParksCommSidewalk
+WI,Wisconsin,YouthAccessPlayWalkAreas,33.8,33.8,31.2,44.39319117,-89.81637074,PercentYouthParksCommSidewalk
+WY,Wyoming,YouthAccessPlayWalkAreas,61.8,61.8,27.7,43.23554134,-108.1098304,PercentYouthParksCommSidewalk
+GA,Georgia,DistrictsHealthierFoodRetailer,72.2,72.2,30.5,32.83968109,-83.62758035,PercentTracksHealthierFoodRetailerWithinHalfMile
+MO,Missouri,DistrictsHealthierFoodRetailer,66.4,66.4,31.5,38.63579078,-92.56630005,PercentTracksHealthierFoodRetailerWithinHalfMile
+HI,Hawaii,DistrictsHealthierFoodRetailer,70.4,70.4,25.5,21.30485044,-157.8577494,PercentTracksHealthierFoodRetailerWithinHalfMile
+ID,Idaho,DistrictsHealthierFoodRetailer,70.8,70.8,28.8,43.68263001,-114.36373,PercentTracksHealthierFoodRetailerWithinHalfMile
+MT,Montana,DistrictsHealthierFoodRetailer,50.2,50.2,26.3,47.06652897,-109.4244206,PercentTracksHealthierFoodRetailerWithinHalfMile
+NE,Nebraska,DistrictsHealthierFoodRetailer,59.8,59.8,32,41.64104099,-99.36572062,PercentTracksHealthierFoodRetailerWithinHalfMile
+IL,Illinois,DistrictsHealthierFoodRetailer,72.6,72.6,31,40.48501028,-88.99771018,PercentTracksHealthierFoodRetailerWithinHalfMile
+MN,Minnesota,DistrictsHealthierFoodRetailer,56.5,56.5,28.8,46.35564874,-94.7942005,PercentTracksHealthierFoodRetailerWithinHalfMile
+IN,Indiana,DistrictsHealthierFoodRetailer,62.8,62.8,32.2,39.76691045,-86.14996019,PercentTracksHealthierFoodRetailerWithinHalfMile
+MS,Mississippi,DistrictsHealthierFoodRetailer,61.5,61.5,36.7,32.7455101,-89.53803082,PercentTracksHealthierFoodRetailerWithinHalfMile
+IA,Iowa,DistrictsHealthierFoodRetailer,56,56,31.5,42.46940091,-93.81649056,PercentTracksHealthierFoodRetailerWithinHalfMile
+KS,Kansas,DistrictsHealthierFoodRetailer,58.6,58.6,31.2,38.3477403,98.20078123,PercentTracksHealthierFoodRetailerWithinHalfMile
+DE,Delaware,DistrictsHealthierFoodRetailer,77.1,77.1,30.3,39.00883067,-75.57774117,PercentTracksHealthierFoodRetailerWithinHalfMile
+MA,Massachusetts,DistrictsHealthierFoodRetailer,73.1,73.1,24.6,42.27687047,-72.08269067,PercentTracksHealthierFoodRetailerWithinHalfMile
+AL,Alabama,DistrictsHealthierFoodRetailer,64.3,64.3,35.4,32.84057112,-86.63186076,PercentTracksHealthierFoodRetailerWithinHalfMile
+AZ,Arizona,DistrictsHealthierFoodRetailer,70.9,70.9,29.6,34.86597028,-111.7638113,PercentTracksHealthierFoodRetailerWithinHalfMile
+RI,Rhode Island,DistrictsHealthierFoodRetailer,73.9,73.9,26.9,41.70828019,-71.52247031,PercentTracksHealthierFoodRetailerWithinHalfMile
+AK,Alaska,DistrictsHealthierFoodRetailer,46.1,46.1,31.6,64.84507996,-147.722059,PercentTracksHealthierFoodRetailerWithinHalfMile
+AR,Arkansas,DistrictsHealthierFoodRetailer,61.7,61.7,35.5,34.74865012,-92.27449074,PercentTracksHealthierFoodRetailerWithinHalfMile
+CA,California,DistrictsHealthierFoodRetailer,82.9,82.9,26.1,37.63864012,-120.9999995,PercentTracksHealthierFoodRetailerWithinHalfMile
+CO,Colorado,DistrictsHealthierFoodRetailer,74.6,74.6,23.3,38.84384076,-106.1336109,PercentTracksHealthierFoodRetailerWithinHalfMile
+CT,Connecticut,DistrictsHealthierFoodRetailer,71,71,27.1,41.56266102,-72.64984095,PercentTracksHealthierFoodRetailerWithinHalfMile
+DC,District of Columbia,DistrictsHealthierFoodRetailer,83.2,83.2,24.6,38.89037139,-77.03196113,PercentTracksHealthierFoodRetailerWithinHalfMile
+MD,Maryland,DistrictsHealthierFoodRetailer,74.4,74.4,30.1,39.29058096,-76.60926011,PercentTracksHealthierFoodRetailerWithinHalfMile
+MI,Michigan,DistrictsHealthierFoodRetailer,63.3,63.3,32.5,44.66131954,-84.71439027,PercentTracksHealthierFoodRetailerWithinHalfMile
+OH,Ohio,DistrictsHealthierFoodRetailer,66.4,66.4,32.8,40.06021014,-82.40426006,PercentTracksHealthierFoodRetailerWithinHalfMile
+WA,Washington,DistrictsHealthierFoodRetailer,73.3,73.3,29.4,47.52227863,-120.4700108,PercentTracksHealthierFoodRetailerWithinHalfMile
+WV,West Virginia,DistrictsHealthierFoodRetailer,61.4,61.4,38.1,38.6655102,-80.71264013,PercentTracksHealthierFoodRetailerWithinHalfMile
+FL,Florida,DistrictsHealthierFoodRetailer,79.6,79.6,27.5,28.93204038,-81.92896054,PercentTracksHealthierFoodRetailerWithinHalfMile
+KY,Kentucky,DistrictsHealthierFoodRetailer,61.4,61.4,34,37.64597027,-84.77497105,PercentTracksHealthierFoodRetailerWithinHalfMile
+LA,Louisiana,DistrictsHealthierFoodRetailer,67.4,67.4,35.7,31.31266064,-92.44568007,PercentTracksHealthierFoodRetailerWithinHalfMile
+ME,Maine,DistrictsHealthierFoodRetailer,59,59,30.9,45.25422889,-68.98503134,PercentTracksHealthierFoodRetailerWithinHalfMile
+NV,Nevada,DistrictsHealthierFoodRetailer,71.6,71.6,25.8,39.49324039,-117.0718406,PercentTracksHealthierFoodRetailerWithinHalfMile
+NH,New Hampshire,DistrictsHealthierFoodRetailer,60.6,60.6,26.4,43.65595011,-71.50036092,PercentTracksHealthierFoodRetailerWithinHalfMile
+NJ,New Jersey,DistrictsHealthierFoodRetailer,80.9,80.9,28.1,40.13057005,-74.27369129,PercentTracksHealthierFoodRetailerWithinHalfMile
+NM,New Mexico,DistrictsHealthierFoodRetailer,52.4,52.4,29,34.52088095,-106.240581,PercentTracksHealthierFoodRetailerWithinHalfMile
+NY,New York,DistrictsHealthierFoodRetailer,82.8,82.8,25.9,42.82700103,-75.54397043,PercentTracksHealthierFoodRetailerWithinHalfMile
+NC,North Carolina,DistrictsHealthierFoodRetailer,73.8,73.8,31.8,35.46622098,-79.15925046,PercentTracksHealthierFoodRetailerWithinHalfMile
+ND,North Dakota,DistrictsHealthierFoodRetailer,47.8,47.8,32.9,47.47531978,-100.118421,PercentTracksHealthierFoodRetailerWithinHalfMile
+OK,Oklahoma,DistrictsHealthierFoodRetailer,49.4,49.4,32.8,35.47203136,-97.52107021,PercentTracksHealthierFoodRetailerWithinHalfMile
+OR,Oregon,DistrictsHealthierFoodRetailer,77.6,77.6,28.7,44.56744942,-120.1550313,PercentTracksHealthierFoodRetailerWithinHalfMile
+PA,Pennsylvania,DistrictsHealthierFoodRetailer,70.2,70.2,30.3,40.79373015,-77.86070029,PercentTracksHealthierFoodRetailerWithinHalfMile
+SC,South Carolina,DistrictsHealthierFoodRetailer,69.1,69.1,32.4,33.9988213,-81.04537121,PercentTracksHealthierFoodRetailerWithinHalfMile
+SD,South Dakota,DistrictsHealthierFoodRetailer,42.8,42.8,29.8,44.35313005,-100.3735306,PercentTracksHealthierFoodRetailerWithinHalfMile
+TN,Tennessee,DistrictsHealthierFoodRetailer,64.1,64.1,35.7,35.68094058,-85.77449091,PercentTracksHealthierFoodRetailerWithinHalfMile
+TX,Texas,DistrictsHealthierFoodRetailer,68.7,68.7,32.7,31.82724041,-99.42677021,PercentTracksHealthierFoodRetailerWithinHalfMile
+UT,Utah,DistrictsHealthierFoodRetailer,64.8,64.8,25.5,39.36070017,-111.5871306,PercentTracksHealthierFoodRetailerWithinHalfMile
+VT,Vermont,DistrictsHealthierFoodRetailer,51.4,51.4,28,43.62538124,-72.51764079,PercentTracksHealthierFoodRetailerWithinHalfMile
+VA,Virginia,DistrictsHealthierFoodRetailer,71.7,71.7,30.2,37.54268067,-78.45789046,PercentTracksHealthierFoodRetailerWithinHalfMile
+WI,Wisconsin,DistrictsHealthierFoodRetailer,61.5,61.5,31.2,44.39319117,-89.81637074,PercentTracksHealthierFoodRetailerWithinHalfMile
+WY,Wyoming,DistrictsHealthierFoodRetailer,55,55,27.7,43.23554134,-108.1098304,PercentTracksHealthierFoodRetailerWithinHalfMile

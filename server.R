@@ -17,7 +17,7 @@ library(shinydashboard)
 library(shinythemes)
 library(rsconnect)
 library(hexbin)
-
+library(ggthemes)
 data= read.csv("./NPAO_Cons_v4.csv", stringsAsFactors = FALSE)
 summaryvariables= read.csv("summaryvariables4.csv", stringsAsFactors = FALSE)
 data$Year = as.factor(data$Year)
